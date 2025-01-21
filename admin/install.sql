@@ -1,6 +1,6 @@
 -- Datenbank erstellen
-CREATE DATABASE Buchhandlungssystem;
-GO
+-- CREATE DATABASE Buchhandlungssystem;
+-- GO
 
 -- Zur Datenbank wechseln
 USE Buchhandlungssystem;
